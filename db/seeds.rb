@@ -11,7 +11,7 @@ Strain.destroy_all
 
 cepas = [
     { name: 'Carmenere', origin: 'Colchagua' },
-    { name: 'Pais', origin: 'Colchagua' },
+    { name: 'Merlot', origin: 'Colchagua' },
     { name: 'Cabernet', origin: 'Cachapoal' }
 ]
 
