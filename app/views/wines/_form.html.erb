@@ -1,3 +1,4 @@
+<div class="container">
 <%= form_with(model: wine) do |form| %>
   <% if wine.errors.any? %>
     <div id="error_explanation">
@@ -37,3 +38,4 @@
     <%= form.submit %>
   </div>
 <% end %>
+</div>
